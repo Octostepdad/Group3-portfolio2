@@ -1214,7 +1214,7 @@ section * {
 .content-13.subscribe-form .col-sm-4 {
   text-align: right;
 }
-@media (max-width: 767px) {
+@media (max-width: 766px) {
   .content-13.subscribe-form .col-sm-4 {
     width: auto;
     display: inline-block;
@@ -1246,6 +1246,9 @@ section * {
     float: none;
     text-align: center;
   }
+    .col-sm4 {
+        
+    }
 }
 .content-13.subscribe-form input[type="text"],
 .content-13.subscribe-form input[type="email"] {
@@ -1525,6 +1528,10 @@ section * {
 }
 .logos > .container {
   display: table;
+}
+
+#container
+{left:500px;
 }
 .logos > .container > div {
   display: table-cell;
