@@ -1481,7 +1481,15 @@ section * {
   }
 }
 .header-11-sub .background {
+<<<<<<< HEAD
   background-image: url("Background.png");
+=======
+<<<<<<< HEAD
+  background-image: url("Space.png");
+=======
+  background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/galaxy-wallpapers-20.jpg");
+>>>>>>> 5061405be2ad061e9b775c80039bbccc3141a722
+>>>>>>> ba766d6474c391ae62bf6520e15c5b61a83cad73
   opacity: 80;
   filter: alpha(opacity=8000);
   opacity: 0.8;
